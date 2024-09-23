@@ -36,7 +36,7 @@ y=int(input("Insert value you want to find:-"))
 
 
 # Using Funcation
-def findelement(l1,y):
+def findelement(l1,y): # i will change 5 times o(5) = 0(1)
     Flage=True
     for i in l1:
      if(i==y):
