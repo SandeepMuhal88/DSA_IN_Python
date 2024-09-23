@@ -1,0 +1,1 @@
+# Q7. find sum of element of list and also find time and space complexity ?

@@ -1,0 +1,1 @@
+# Q5. find unique pair in dice ?

@@ -1,0 +1,1 @@
+# Q6. store every element of list in another list using for loop and find time and space complexity ?
