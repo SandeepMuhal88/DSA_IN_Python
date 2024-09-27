@@ -1,0 +1,1 @@
+# Q3. implement stack with function using while loop ?

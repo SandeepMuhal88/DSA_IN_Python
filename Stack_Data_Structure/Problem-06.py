@@ -1,0 +1,1 @@
+# Q6. find time and space complexity of stack when implement wihtin class ?
