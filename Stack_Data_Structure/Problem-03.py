@@ -34,7 +34,7 @@ def menu():
 
         print("1. Push element!             2.Pop Element!")
         print("3.Peek element!              4.Size od stack")
-        print("5.Check is empty.              ")
+        print("5.Check is empty.             6.Exit. ")
 
         choice=int(input("Enter your choice:="))
         match choice:
@@ -51,9 +51,11 @@ def menu():
                 print("The size of the Stack:-",size())
             case 5:
                 print(is_empty())
+            case 6:
+                break
             case _:
                 print("Invalid day entered.")
-                break
+                
 print("====================================================================================================================================")
 print("====================================================================================================================================")
 print("=========================***********Perform Oeration In stack Data Structur***************==========================================")
