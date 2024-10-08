@@ -1,0 +1,1 @@
+# Q6. what is the use of deque from collections module ?

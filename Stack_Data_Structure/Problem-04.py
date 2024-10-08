@@ -22,7 +22,7 @@ class stack:
     
     def peek(self):
         if not self.is_empty():
-            print(self.stack[len(self.stack) - 1])
+            print("Thie Top element is :-",self.stack[len(self.stack) - 1])
         else:
             print("Stack is empty:)))")
     
@@ -40,7 +40,7 @@ obj.push(305)
 obj.push(501)
 obj.push(847)
 obj.push(457)
-obj.pop()
+# obj.pop()
 # print(obj.is_empty())
 # obj.size()
 obj.peek()
