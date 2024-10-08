@@ -35,9 +35,10 @@ def display():
     print("Display Queues:-",queue)
 
 print(is_empty())
-
+size()
 enqueue(12)
 enqueue(52)
 enqueue(63)
 enqueue(78)
 enqueue(96)
+size()
